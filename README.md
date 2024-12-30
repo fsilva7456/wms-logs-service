@@ -1,0 +1,1 @@
+# wms-logs-service
